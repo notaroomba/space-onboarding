@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "HAB_Sensor_Board")(type "KiCad")(uri "${KIPRJMOD}/hab_sensor_board_lib/HAB_Sensor_Board.kicad_sym")(options "")(descr "HAB sensor board custom symbols"))
+)
