@@ -1,3 +1,4 @@
-# MIT Rocket Team Onboarding Files
-`/avionics` for avionics stuff
+# MIT Rocket/Satellite Team Onboarding Files
+`/avionics` for rocket avionics stuff
+`/satellite ` for satellite stuff
 `/propulsion` for prop cad stuff
